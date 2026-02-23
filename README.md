@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Técnica Electromecánica</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=%3E_SYS.INIT%3A+Fusi%C3%B3n+Hardware+%2B+Software;%3E_Focus%3A+Python%2C+FastAPI%2C+Bases+de+Datos;%3E_Objetivo%3A+Arquitecturas+Robustas+y+Escalables" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=C0D6DF&center=true&vCenter=true&width=500&lines=%3E_SYS.INIT%3A+Fusi%C3%B3n+Hardware+%2B+Software;%3E_Focus%3A+Python%2C+FastAPI%2C+Bases+de+Datos;%3E_Objetivo%3A+Arquitecturas+Robustas+y+Escalables" alt="Typing SVG" />
 </div>
 
 ---
@@ -41,13 +41,7 @@ Especializada en el ecosistema **Backend**, automatización de procesos complejo
 
 
 
-### 🚀 `OPERACIONES // ACTIVIDAD_RECIENTE`
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValeryJL&show_icons=true&bg_color=050a08&text_color=7A9B92&icon_color=00FFCC&title_color=00FFCC&border_color=1E3A34&hide_border=false" alt="Estadísticas de Valeria" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryJL&layout=compact&bg_color=050a08&text_color=7A9B92&title_color=00FFCC&border_color=1E3A34&hide_border=false" alt="Lenguajes Top" height="195" />
-</div>
 
-<br>
 
 ### 🌐 `COMUNICACIÓN // ENLACES`
 <div align="center">
