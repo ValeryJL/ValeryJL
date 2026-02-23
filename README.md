@@ -61,5 +61,4 @@ Especializada en el ecosistema **Backend**, automatización de procesos complejo
 ---
 <div align="center">
   <small><em>"La eficiencia en el código proviene del rigor en la máquina."</em></small><br>
-  <img src="https://komarev.com/ghpvc/?username=ValeryJL&color=00FFCC&style=flat-square&label=SYS.VIEWS" alt="Profile Views" />
 </div>
