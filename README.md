@@ -41,11 +41,21 @@ Especializada en el ecosistema **Backend**, automatización de procesos complejo
 
 
 
+### 🚀 `OPERACIONES // ACTIVIDAD_RECIENTE`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValeryJL&show_icons=true&bg_color=050a08&text_color=7A9B92&icon_color=00FFCC&title_color=00FFCC&border_color=1E3A34&hide_border=false" alt="Estadísticas de Valeria" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryJL&layout=compact&bg_color=050a08&text_color=7A9B92&title_color=00FFCC&border_color=1E3A34&hide_border=false" alt="Lenguajes Top" height="195" />
+</div>
+
+<br>
+
 ### 🌐 `COMUNICACIÓN // ENLACES`
 <div align="center">
+  <br>
   <a href="https://valeryjl.github.io/">
-    <img src="https://img.shields.io/badge/Terminal_Portfolio-050a08?style=for-the-badge&logo=gnometerminal&logoColor=00FFCC&labelColor=1E3A34&border=00FFCC" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/ACCEDER_AL_PORTFOLIO_PRINCIPAL-050a08?style=for-the-badge&logo=gnometerminal&logoColor=00FFCC&labelColor=1E3A34&border=00FFCC" alt="Portfolio" />
   </a>
+  <br><br>
   <a href="https://linkedin.com/in/valeriajlorda">
     <img src="https://img.shields.io/badge/Red_Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
