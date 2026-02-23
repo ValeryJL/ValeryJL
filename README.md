@@ -50,7 +50,7 @@ Especializada en el ecosistema **Backend**, automatización de procesos complejo
     <img src="https://img.shields.io/badge/ACCEDER_AL_PORTFOLIO_PRINCIPAL-050a08?style=for-the-badge&logo=gnometerminal&logoColor=00FFCC&labelColor=1E3A34&border=00FFCC" alt="Portfolio" />
   </a>
   <br><br>
-  <a href="https://linkedin.com/in/valeriajlorda">
+  <a href="https://linkedin.com/in/ValeryJL">
     <img src="https://img.shields.io/badge/Red_Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:valejlorda@insanustech.com.ar">
