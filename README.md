@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=180&section=header&text=Valeria%20Jauregui%20Lorda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20T%C3%A9cnica%20Electromec%C3%A1nica&descAlignY=55&descAlign=62" alt="Header Banner" width="100%" />
-</div>
+<h1 align="center">VALERIA JAUREGUI LORDA</h1>
+<h3 align="center">Backend Developer | Técnica Electromecánica</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=%3E_SYS.INIT%3A+Fusi%C3%B3n+Hardware+%2B+Software;%3E_Focus%3A+Python%2C+FastAPI%2C+Bases+de+Datos;%3E_Objetivo%3A+Arquitecturas+Robustas+y+Escalables" alt="Typing SVG" />
@@ -40,17 +39,7 @@ Especializada en el ecosistema **Backend**, automatización de procesos complejo
 
 <br>
 
-### 🚀 `OPERACIONES // ACTIVIDAD_RECIENTE`
-<div align="center">
-  <a href="https://github.com/ValeryJL">
-    <img src="https://github-readme-stats.vercel.app/api?username=ValeryJL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a08&title_color=00FFCC&text_color=C0D6DF&icon_color=FF3366" alt="Estadísticas de Valeria" height="195" />
-  </a>
-  <a href="https://github.com/ValeryJL">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryJL&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a08&title_color=00FFCC&text_color=C0D6DF" alt="Lenguajes Top" height="195" />
-  </a>
-</div>
 
-<br>
 
 ### 🌐 `COMUNICACIÓN // ENLACES`
 <div align="center">
