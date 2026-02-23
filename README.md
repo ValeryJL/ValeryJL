@@ -46,14 +46,14 @@ Especializada en el ecosistema **Backend**, automatización de procesos complejo
 ### 🌐 `COMUNICACIÓN // ENLACES`
 <div align="center">
   <br>
-  <a href="https://valeryjl.github.io/">
+  <a href="https://valeryjl.com.ar/">
     <img src="https://img.shields.io/badge/ACCEDER_AL_PORTFOLIO_PRINCIPAL-050a08?style=for-the-badge&logo=gnometerminal&logoColor=00FFCC&labelColor=1E3A34&border=00FFCC" alt="Portfolio" />
   </a>
   <br><br>
   <a href="https://linkedin.com/in/valeriajlorda">
     <img src="https://img.shields.io/badge/Red_Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:valejlorda@gmail.com">
+  <a href="mailto:valejlorda@insanustech.com.ar">
     <img src="https://img.shields.io/badge/Protocolo_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
